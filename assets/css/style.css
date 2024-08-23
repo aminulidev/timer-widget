@@ -1,7 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
 .timer-bg {
     background-image: url("/assets/images/timer-bg.png");
     background-repeat: no-repeat;
