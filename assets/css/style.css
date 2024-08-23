@@ -1,5 +1,5 @@
 .timer-bg {
-    background-image: url("/assets/images/timer-bg.png");
+    background-image: url("../images/timer-bg.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
